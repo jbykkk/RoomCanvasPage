@@ -1,0 +1,15 @@
+RoomCanvas Project Website
+Copyright 2026 RoomCanvas contributors
+
+The RoomCanvas icon and office screenshots are copied without modification
+from innovationasuna/RoomCanvas at commit
+ce39cd4cac58e7c454b44953b0d4ec487e850537.
+The original project's notice states: Copyright 2026 innovationAusna.
+
+The office depicted in these screenshots is reconstructed from the official
+LiteReality-Agent sample. LiteReality-Agent is copyright Zhening Huang and
+the LiteReality contributors and is licensed under Apache License 2.0.
+https://github.com/LiteReality/LiteReality-Agent
+
+The website structure is inspired by academic project pages, including the
+PanoVLN page provided as a reference. No PanoVLN code or assets are bundled.
