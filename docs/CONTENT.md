@@ -34,13 +34,12 @@
 ## 确认后再补
 
 - 正式英文项目副标题，作者、机构及排序。
-- 主项目的公开源码地址；当前私有仓库不作为公开下载入口。
 - 演示视频或录屏、更多可公开场景，以及照片重建完成结果。
 - 论文、BibTeX、定量实验与已核验的对比结果。
 - 可用的在线交互编辑器、模型下载、数据集或 App 下载。
 - Cloudflare Pages 最终域名；确定后将 `og:image` 改为绝对 URL，并补充 canonical、`og:url`、sitemap。
 
-当前只链接网站本身的源码仓库，不将其标注为 RoomCanvas 主项目源码。
+用户已确认首页 GitHub 入口指向 `https://github.com/innovationasuna/RoomCanvas`，位于“了解工作流程”按钮右侧。页脚“网站源码”仍链接 `jbykkk/RoomCanvasPage`。
 
 ## 本次验证与交付状态（2026-11-02）
 
